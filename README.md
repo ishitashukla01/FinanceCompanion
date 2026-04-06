@@ -112,8 +112,8 @@ Ishita Shukla
 🏠 Home Screen
 ![Home](screenshots/home.png)
 
-💰 Transactions Screen
-![Transactions](screenshots/transactions.png)
+💰 Transaction Screen
+![Transaction](screenshots/transaction.png)
 
 📊 Insights Screen
 ![Insights](screenshots/insights.png)
