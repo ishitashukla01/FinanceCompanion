@@ -106,3 +106,17 @@ com.example.financecompanion
 👨‍💻 Author
 
 Ishita Shukla
+
+📸 Screenshots
+
+🏠 Home Screen
+![Home](screenshots/home.png)
+
+💰 Transactions Screen
+![Transactions](screenshots/transactions.png)
+
+📊 Insights Screen
+![Insights](screenshots/insights.png)
+
+📅 Budget Screen
+![Budget](screenshots/budget.png)
