@@ -73,15 +73,6 @@ com.example.financecompanion
 - Apply filters
 - Check insights calculations
 
-🧪 Testing Checklist
-
-- Add income and expense
-- Verify balance updates
-- Test budget limit and remaining amount
-- Search transactions
-- Apply filters
-- Check insights calculations
-
 📌 Key Implementation Highlights
 
 - MVVM architecture implementation
